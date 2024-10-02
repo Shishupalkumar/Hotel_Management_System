@@ -25,3 +25,7 @@ The **Hotel Management System** is a comprehensive software application designed
 4. Ensure you have MySQL installed and create a database for the project.  
 5. Update the database connection settings in the application as needed.  
 
+# Usage
+1. Run the application through your IDE.  
+2. Create an admin account to manage hotel operations.  
+3. Explore the features, including room booking, guest management, and employee records.  
