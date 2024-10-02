@@ -18,7 +18,7 @@ The **Hotel Management System** is a comprehensive software application designed
 # Installation : 
 
 1. Clone the repository:
-   - git clone https://github.com/shishupal kumar/HotelManagementSystem.git
+   - git clone https://github.com/shishupalkumar/HotelManagementSystem.git
 2. Navigate to the project directory: 
    - cd HotelManagementSystem
 3. Open the project in your preferred IDE (NetBeans or Eclipse).  
