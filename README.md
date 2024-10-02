@@ -93,4 +93,4 @@ This project is licensed under the MIT License.
 If you have any questions or issues regarding the project, please contact:  
 
 **Name:** Shishupal Kumar  
-**Email:** your-email@example.com  
+**Email:** shishupalsingh7627@gmail.com  
